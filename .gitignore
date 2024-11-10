@@ -1,0 +1,12 @@
+# Ignore Firebase authentication file if it contains sensitive information
+firebaseauth.js
+
+# If you don't need to track logs or temporary files
+*.log
+
+# Ignore system files like .DS_Store on macOS
+.DS_Store
+
+# Ignore any build or temporary directories
+build/
+dist/
